@@ -12,7 +12,7 @@ baseurl: ''                 # the subpath of your site, e.g. /blog
 permalink: /:year/:title/   # how should we display posts url
 
 # Meta settings
-email: kunal@tandon.com
+email: kunal@kunaltandon.com
 author: Kunal Tandon
 twitter_username: KunalTandon
 linkedin_username: tandonkunal
