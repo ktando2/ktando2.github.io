@@ -6,4 +6,4 @@ desc: About
 permalink: /about/
 ---
 
-LOL My name is Kunal.
+LOL My name is Kunal. Here are some changes.
