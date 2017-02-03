@@ -1,0 +1,18 @@
+---
+title: Ride Together
+desc: Can't we all just come together to make self-driving cars a reality more quickly?
+---
+
+There is no new technology that I am more excited about than self-driving cars. The dream of self-driving cars has probably been around since cars themselves. But only in recent years does it feel like the dream will become a reality in many of our own lifetimes. Self-driving cars will be so incredibly transformative, that it is impossible to even predict all the ways they will change our lives, and the world around us.
+
+I selfishly want this technology to get here as soon as possible. There are many companies that are working to bring self-driving technology to fruition. Google, Uber, Tesla, Apple, GM (Cruise acquisition), and many of the traditional car makers, along with some startups are all researching, developing, and iterating on bringing self-driving technology into vehicles. It’s encouraging to see so many companies pursue the future of transportation through varied approaches, but I can’t help but think it would be better for the world as a whole if this endeavor was open-sourced.
+
+Open-sourcing autonomous vehicle will never happen due to competing business interests, but let’s just push that aside, and think of the benefits of pursuing this as a public good.
+
+We would get to a driverless-car future faster. Sharing information, refining approaches, and learning from one another’s work up until this point would only help to accelerate arriving at a real-world ready solution. Think of how many lives we could start saving, and inefficient vehicles we can start taking off the road even sooner!
+
+By collaborating to build the technology, all the players can work together to develop industry standards. All the cars, regardless of maker should be able to communicate with one another. Communication is key among humans, and it will also be crucial among autonomous vehicles. Standardization can also be helpful when thinking about charging infrastructure for electric vehicles. I fear we might be heading towards proprietary charging networks, which isn’t good for the users, or for efficient use of space.
+
+Deployment of new technology across the ecosystem. For consumers it’s a good thing if there are multiple options when choosing whom to buy from, or whom access a self-driving vehicle from. Competition is a good thing, and it will help keep down prices. It’s important that self-driving vehicles (or at least access to them on-demand) be available at affordable prices, because they will work best with fewer traditional cars on the road.
+
+I know it’s just a dream that all these companies will share their research, and work together to bring the best version of this technology to the world sooner, but it’s worth thinking about, and at the very least starting a dialogue. Many researchers say all the lives that will be saved by self-driving cars will be one of the greatest public-health achievements of all time, so shouldn’t we be doing everything we can to bring the technology to the world sooner? Tesla is in the habit of open sourcing a lot of their work to encourage other car companies to make the shift to electric, because the company’s ultimate mission is to make sustainable transport. Maybe Elon will think about doing the same with autonomous driving technology. Here’s to hoping!

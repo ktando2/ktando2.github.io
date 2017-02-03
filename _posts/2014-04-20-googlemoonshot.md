@@ -1,0 +1,10 @@
+---
+title: Oversized Problems = Oversized Results
+desc: Google's Moonshot Mindset
+---
+
+*“DeVaul insists that it’s often just as easy, or easier, to make inroads on the biggest problems “than to try to optimize the next 5% or 2% out of some process.” Think about cars, he tells me. If you want to design a car that gets 80 mpg, it requires a lot of work, yet it really doesn’t address the fundamental problem of global fuel resources and emissions. But if you want to design a car that gets 500 mpg, which actually does attack the problem, you are by necessity freed from convention, since you can’t possibly improve an existing automotive design by such a degree. Instead you start over, reexamining what a car really is. You think of different kinds of motors and fuels, or of space-age materials of such gossamer weight and iron durability that they alter the physics of transportation. Or you dump the idea of cars altogether in favor of a ­substitute. And then maybe, just maybe, you come up with something worthy of X.”*
+
+- [The Truth About Google X](https://www.fastcompany.com/3028156/united-states-of-innovation/the-google-x-factor)
+
+The quote above illustrates a really powerful way of thinking. It also captures why startups are able to disrupt large incumbents. Few large companies are willing to disrupt themselves, and often fall victim to the Innovator’s Dilemma. Incumbents often focus on trying to achieve moderate improvements for their existing products. Startups have the benefit of not simply improving an existing solution, but creating something entirely new, something that can reimagine the entire problem, and offer an original/innovative approach. With Google X, the company is ensuring that the focus remains on being bold, failing openly, trying new things, and building the future.

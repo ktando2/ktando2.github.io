@@ -1,0 +1,12 @@
+---
+title: A Well Timed Secret
+desc: Unique insights can provide a tremendous advantage.
+---
+ 
+ *“The fact that all of the initial inner circle- Gibbs, Ax, and me- had done presidential politics in 2004 (for three different candidate) was incredibly important for how we viewed the conventional wisdom about 2008- and was another huge advantage over the Clinton campaign. Few of her inner circle had been involved in the 2004 Democratic primaries. Ax and I had seen improbable outsiders win congressional primaries and races in 2006 while we were working closely with Rahm Emanuel and the DCCC on the effort to win back the house while in 2005 Gibbs was traveling with Obama, seeing a startling passionate reaction him in very unlikely places all across the country. Of course, most important, Obama was absorbing these lessons as well. All four of us were in right spots to see a new potential out there to match the changing mood of the electorate and new technological advances that could help us build a campaign to tap into the winds of change. Many of these lessons ran counter to conventional wisdom about how to run for president, so it was a good first test to see if we could ignore the evidence before our eyes, trust our gut, and start with a clean sheet of paper, not try to rerun the campaigns of the past.”*
+
+David Plouffe (Barack Obama’s 2008 Campaign Manager)- [The Audacity to Win](https://smile.amazon.com/Audacity-Win-Lessons-Historic-Victory/dp/0670021334?_encoding=UTF8&sa-no-redirect=1)
+
+This excerpt from David Plouffe’s book on the 2008 presidential campaign really stood out to me. It reminded me how some investors speak about investing in founders who have a secret, and can build upon that unfair advantage. Obama’s inner circle in the campaign happened to bring a very unique background, one that perfectly positioned them to see a few years into the future, and bet on the emergence of various technological trends. We all know that Barack Obama ended up being elected in 2008, and it was directly a result of many of the innovative online strategies introduced by his team. 
+
+I recommend Plouffe’s book. It is a fascinating inside look into a presidential campaign, and even provides some insights now when we look back, as to why he was recently hired to be the Senior VP of Strategy at Uber.
