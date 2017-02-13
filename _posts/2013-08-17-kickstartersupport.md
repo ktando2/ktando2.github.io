@@ -1,5 +1,5 @@
 ---
-title: Kickstarter: Build Your Product, Build Your Base
+title: Kickstarter- Build Your Product, Build Your Base
 desc: Building relationships with your earliest supporters
 ---
 
