@@ -1,0 +1,17 @@
+---
+title: Evolution of The Camera
+desc: The power of a camera connected to a network
+---
+
+How we think about photos, and the way we use cameras has changed drastically in recent years with the introduction of the iPhone, and other smartphones. Why are photos such an important part of our online lives now? Because everyone is carrying around a camera that is connected to the network. Carrying a camera at all times, and being able to instantly share that image with the world is a monumental change.
+
+The first camera came into existence in the 1830s, it required a fifteen minute exposure to capture an image. That is why when you look at many old pictures, the subjects look so serious…imagine sitting still for fifteen minutes for a single picture! Having your picture taken was an event.
+
+In the 1850s we saw the invention of dry emulsion plates that worked with a very large camera, but cut down the exposure time from fifteen minutes to only 2-3 seconds. But it wasn’t until the 1880s that Kodak introduced the portable camera. In 1913 35mm film became the standard. In 1948 we saw the emergence of the Polaroid camera which gave you instant images, along the SLR camera. Film cameras only gave a photographer a finite number of shots on a single roll of film. Each picture as a result felt important, held significant weight, and was deemed to be valuable. After finishing a roll of film, the film needed to be developed before you could see your pictures. Getting your pictures back after they had been developed, in order to relive the moments you captured was a special experience.
+
+In 1991 the first digital camera came to the market. There was no longer a need to be as thoughtful about the pictures you shot, because you could instantly see what you shot, and choose whether or not you wanted to keep it, and then quickly shoot more pictures.
+
+2000 was the first time a camera phone was sold, but it wasn’t until 2007 with the introduction of the iPhone, and the beginning of the smartphone revolution that we saw the real impact of a critical mass of people always having access to a relatively high quality camera that was also connected to the internet. With essentially unlimited storage options in the cloud, and the ability to take a photo at any time, and instantly see it, edit it, and share it, the ritual, and tradition of taking pictures had been drastically changed forever. I view cameras as more of a tool now. You can use the camera on your phone in the grocery store to ask your roommate questions about what kind of cookies to buy. Rather than asking a celebrity for an autograph when you run into them on the street, you can simply ask to take a selfie with them, and post it to Facebook. There are already more photos of my one year old nephew’s childhood than of my brother and I combined until I turned eighteen. Photos can be used on the street to keep authority figures accountable. Every person with a camera has the ability to broadcast breaking news, and be the eyes on the ground for the entire world. We have seen this play out countless times now.
+
+It's easy to dismiss new ideas leveraging the camera on you phone as just another photo sharing app, but it is important to realize how the connected camera has become an extremely powerful tool. It is a tool with many opportunities to surprise and amaze us in new ways. I’m excited about the future, and the role the continuously evolving camera will play in it.
+
