@@ -1,5 +1,5 @@
 ---
-title: My Smartphone Is Still Kind of Dumb
+title: My Smartphone is Still Kind of Dumb
 desc: Smartphones still have a ton of room for improvement
 ---
 
