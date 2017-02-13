@@ -1,5 +1,5 @@
 ---
-title: Education For The Masses: Global Game Changer?
+title: Education For The Masses- Global Game Changer?
 desc: Access to technology is transformative for education
 ---
 
