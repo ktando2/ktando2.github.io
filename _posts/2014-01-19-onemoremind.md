@@ -1,0 +1,10 @@
+---
+title: One More
+desc: Need more minds tackling the world's biggest challenges
+---
+
+I love to ask my friends about hypothetical situations, and push “what if” questions all the time. What if Michael Jordan never retired from the NBA the first time? What if Instagram didn’t sell to Facebook? What if Steve Jobs never returned to Apple? What if I bought Bitcoin a few years ago (this has been a fun one recently)? With Google’s recent acquisition of Nest, and Google[x]’s incredibly bold list of projects; combined with Elon Musk’s unwavering commitment to push the human race forward in electric cars (Tesla), and simultaneously move us upwards to colonize mars (SpaceX), I cannot help but ask- What if we had one more Google or one more Elon Musk? Arguably, Elon Musk and Larry Page’s Google are working on the most bold projects, that have the potential to fundamentally impact the way the world operates.
+
+Electric cars, colonizing mars, Hyperloop, Project Loon, self-driving cars, robots, google glass, smart contact lenses, and even extending life by decades- these are all projects that one of these visionaries is pursuing. The scope of the challenges that they are undertaking is incredible, but it is also necessary. It is tough to point to other companies, or individuals who are taking on projects that are so bold, forward thinking, and ambitious. What also sets these two apart is that they have proven they can turn these visions into a reality. Their ability to build a team that can execute is amazing. There are countless challenges that the world is facing, we need many more intelligent/capable people to be more bold, and willing to take enormous risks to try and tackle some of these hard problems. Tesla/SpaceX and Google are tackling huge problems, but they cannot do it themselves. Imagine the impact just one more Elon Musk or Larry Page could have on the world. What can the entrepreneurial community, and society at large do to increase the number of brilliant people who are willing to take greater risks? We need more dreamers who can turn those dreams into reality.
+
+What if we all thought more about how to build a better future?
