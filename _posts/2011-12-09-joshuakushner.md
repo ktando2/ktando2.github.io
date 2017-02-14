@@ -1,5 +1,5 @@
 ---
-title: NYU Entrepreneurs Speaker Series: Joshua Kushner
+title: NYU Entrepreneurs Speaker Series- Joshua Kushner
 desc:  Entrepreneur, investor shares his business journey
 ---
 
