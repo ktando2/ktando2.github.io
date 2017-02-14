@@ -1,6 +1,6 @@
 ---
 title: Thank you, Steve
-desc:  Google needs to rethink social
+desc:  RIP Steve Jobs
 ---
 
 Dear Mr. Jobs,
