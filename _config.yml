@@ -21,7 +21,7 @@ linkedin_username: tandonkunal
 google_analytics: 'UA-XXXXXXXX-X'
 
 # Pagination settings
-paginate: 5                           # number of posts to show per page
+paginate: 30                           # number of posts to show per page
 paginate_path: "/articles/page:num/"  # link scheme for articles, should be letf as is
 
 # Navigation settings
@@ -32,12 +32,12 @@ navigation:
     url: /articles/
   - title: Projects
     url: /projects/
-  - title: About
-    url: /about/
   - title: Notes
     url: https://quip.com/4MfMAYpoUd7P
   - title: Reading
     url: /reading/
+  - title: Bookshelf
+    url: /bookshelf/
 
 # Used by Jekyll to recognize what is a post and what is a page
 defaults:
