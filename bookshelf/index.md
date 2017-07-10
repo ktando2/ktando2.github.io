@@ -7,6 +7,8 @@ permalink: /bookshelf/
 ---
 
 
-- [What's The Matter with Kansas?](https://smile.amazon.com/Whats-Matter-Kansas-Conservatives-America/dp/080507774X/)
+An incomplete but regularly updated list of books I have read.
 
-- [When Breath Becomes Air](//smile.amazon.com/When-Breath-Becomes-Paul-Kalanithi/dp/081298840X/)
+[My bookshelf](https://bookshelf.website/kunaltandon)
+
+
