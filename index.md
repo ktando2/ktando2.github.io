@@ -3,9 +3,9 @@ layout: default
 ---
 
 <div class="lead pretty-links">
-  I’m interested in the collision between culture + technology. Technology is increasingly reshaping every part of our lives, and society. Technology has quickly gone from being its own industry, to impacting every part of the global economy, and our lives.
+  I’m interested in the collision between culture + technology. Technology is increasingly reshaping every part of our lives, and society. Technology has quickly gone from being its own industry, to impacting every part of the global economy, and society as a whole.
 
-I’m also a firm believer in the idea that we need to rethink the way businesses are built. We need to emphasize sustainability, values, and a mission beyond simply making money. Businesses that operate at the intersection of profit + purpose will have the most appeal in a rapidly evolving economy being redefined by the modern consumer.
+I’m also a firm believer in empowering people who want to build businesses that will create increased productivity, access, convenience, and opportunity for a greater number of people. By leveraging the power of the internet, today founders have the ability to impact more lives in a shorter amount of time than ever before. This ability offers a tremendous opportunity for us to tackle some of the biggest challenges facing the world today. But this opportunity also comes with a tremendous responsibility, one which demands that we always choose what is right, even if that means not doing what is easy. Building for the longterm is the only path towards achieving real impact.
 
 I’m open with what I’m thinking about online because I believe conversation, and debate are the best avenues to learn from others. Feel free to check out my blog, notes, and Twitter account to learn more about me.
 
