@@ -1,5 +1,7 @@
+---
 title: Becoming A Hero
 desc: Committing to one new post a week.
+---
 
 Writing on this blog has been neglected for far too long. I have become a master of not doing something that I actually enjoy doing once I bring myself to actually do it. For many people they likely experience something similar when it comes time to go to the gym. You know it’s good for you, you never regret going, and yet going is often a struggle. 
 
